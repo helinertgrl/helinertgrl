@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=helinertgrl&show_icons=true&locale=en&layout=compact&theme=dark" alt="helinertgrl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helinertgrl&" alt="helinertgrl" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helinertgrl&theme=dark" alt="helinertgrl" /></p>
