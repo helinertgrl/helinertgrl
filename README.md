@@ -16,19 +16,19 @@
 ---
 
 ### 🌸 About Me
-kotlin
+```kotlin
 val developer = Developer(
     name = "Helin",
     focusArea = listOf("Mobile Development", "UI/UX Design"),
     languages = listOf("Kotlin", "JavaScript", "Python"),
     goals = "Building intuitive and creative mobile applications"
 )
+```
 
-
-- 📱 Developing Android applications with *Kotlin*
+- 📱 Developing Android applications with **Kotlin**
 - 🎨 Passionate about design and user experience
 - 🌱 Always learning and exploring new technologies
-- 💌 Contact: *helinertgrll@gmail.com*
+- 💌 Contact: **helinertgrll@gmail.com**
 
 ---
 
@@ -36,14 +36,14 @@ val developer = Developer(
 
 <div align="center">
   
-  *Mobile Development*
+  **Mobile Development**
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" height="50"/>
   
-  *Design & Tools*
+  **Design & Tools**
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="50" height="50"/>
@@ -56,7 +56,6 @@ val developer = Developer(
 ### 📈 GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helinertgrl&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helinertgrl&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
