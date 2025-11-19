@@ -1,18 +1,73 @@
-<h1 align="center">Hi, I'm Helin💫</h1>
+<div align="center">
+  <h1>Hi, I'm Helin 💫</h1>
+  <h3>Aspiring Android Developer</h3>
+  <p><i>Currently learning Meta Android Developer Professional Certificate</i></p>
+  
+  <p>
+    <a href="https://www.instagram.com/helinertgrl" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="mailto:helinertgrll@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+</div>
 
-- 🌱 I’m currently learning **Meta Android Developer Professional Certificate**
+---
 
-- 📫 How to reach me **helinertgrll@gmail.com**
+### 🌸 About Me
+kotlin
+val developer = Developer(
+    name = "Helin",
+    focusArea = listOf("Mobile Development", "UI/UX Design"),
+    languages = listOf("Kotlin", "JavaScript", "Python"),
+    goals = "Building intuitive and creative mobile applications"
+)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/helinertgrl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="helinertgrl" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 📱 Developing Android applications with *Kotlin*
+- 🎨 Passionate about design and user experience
+- 🌱 Always learning and exploring new technologies
+- 💌 Contact: *helinertgrll@gmail.com*
 
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=helinertgrl&show_icons=true&locale=en&layout=compact&theme=dark" alt="helinertgrl" /></p>
+### 🔧 Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helinertgrl&theme=dark" alt="helinertgrl" /></p>
+<div align="center">
+  
+  *Mobile Development*
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" height="50"/>
+  
+  *Design & Tools*
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  
+</div>
+
+---
+
+### 📈 GitHub Activity
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helinertgrl&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helinertgrl&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helinertgrl&theme=radical" alt="helinertgrl" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=helinertgrl&label=Profile%20views&color=0e75b6&style=flat" alt="helinertgrl" />
+  
+  ### ✨ Let's create something amazing!
+</div>
