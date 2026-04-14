@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Helin 💫</h1>
   <h3>Aspiring Android Developer</h3>
-  <p><i>Currently learning Meta Android Developer Professional Certificate</i></p>
+  <p><i>Currently finished Meta Android Developer Professional Certificate</i></p>
   
   <p>
     <a href="https://www.instagram.com/helinertgrl" target="_blank">
